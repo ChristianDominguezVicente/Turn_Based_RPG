@@ -1,0 +1,17 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1725798175
+BattleScene.tscn::PackedScene::7426584919511657138::1725789597::0::1::::<><>::uid://ccacuo8tbek5g::::res://Character.tscn<>uid://0a0w7lxpnfrk::::res://Sprites/Dragon.png<>res://TurnManager.gd<>uid://civn6l7ata7j7::::res://Combat Actions/Slash.tres<>uid://d3ul60q7ah57s::::res://Sprites/Reptile.png<>uid://cfmgodjb3sa8d::::res://Combat Actions/Heal.tres<>uid://48vpu0artwr2::::res://Combat Actions/Stomp.tres
+Character.gd::GDScript::-1::1725788807::0::1::::Character<>Node2D<>::
+Character.tscn::PackedScene::4913376991696124666::1725787315::0::1::::<><>::uid://0a0w7lxpnfrk::::res://Sprites/Dragon.png<>res://Character.gd
+CombatAction.gd::GDScript::-1::1725788085::0::1::::CombatAction<>Resource<>::
+icon.svg::CompressedTexture2D::8443877728592118760::1725558171::1725558188::1::::<><>::
+TurnManager.gd::GDScript::-1::1725786190::0::1::::<>Node<>::
+::res://Combat Actions/::1725788762
+Heal.tres::Resource/CombatAction::5148947593253200277::1725788723::0::1::::<><>::res://CombatAction.gd
+Slash.tres::Resource/CombatAction::5378549357058752898::1725788680::0::1::::<><>::res://CombatAction.gd
+Stomp.tres::Resource/CombatAction::2104903864254184733::1725788762::0::1::::<><>::res://CombatAction.gd
+::res://Sprites/::1725784200
+Boar.png::CompressedTexture2D::6243577619307622584::1725558242::1725558242::1::::<><>::
+Dragon.png::CompressedTexture2D::1756280002041509208::1725558242::1725558242::1::::<><>::
+Reptile.png::CompressedTexture2D::9166561813811757058::1725558242::1725558242::1::::<><>::
+Snake.png::CompressedTexture2D::2555297444456385124::1725558242::1725558242::1::::<><>::

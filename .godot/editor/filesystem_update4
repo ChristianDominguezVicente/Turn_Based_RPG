@@ -1,0 +1,5 @@
+res://BattleScene.tscn
+res://Character.tscn
+res://CombatActionButton.gd
+res://Character.gd
+res://PlayerUI.gd
